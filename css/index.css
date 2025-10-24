@@ -1,0 +1,110 @@
+.welcome{
+    font-size: 24pt;
+    margin-bottom: 5px;
+}
+.content{
+    width: 50%;
+    margin-left: 750px;
+    margin-top: 100px;
+    color: #3A3A3A;
+}
+.text{
+    margin: 0;
+    font-size: 14pt;
+    color: #A7A7A7;
+}
+.email{
+    margin-bottom: 5px;
+    font-size: 15pt;
+}
+.emailInput{
+    padding: 14px 253px 14px 10px;
+}
+.Password{
+    margin-bottom: 5px;
+    font-size: 15pt;
+}
+.PasswordInput{
+    padding: 14px 253px 14px 10px;
+}
+
+.SignUp a{
+    color: #FFFFFF;
+    text-decoration: none;
+    font-size: 16pt;
+}
+.SignUp{
+    border-radius: 4px;
+    padding: 15px 178px;
+    margin-top: 250px;
+    color: #FFFFFF;
+    background-color: #0560FA;
+}
+.SignUp:hover{
+    background-color: #316ed8;
+}
+.opisanie{
+    color: #A7A7A7;
+    margin-top: 30px;
+    font-size: 14pt;
+    margin-left: 95px;
+}
+.op{
+    color: #0560FA;
+    padding-left: 5px;
+    text-decoration: none;
+}
+.home{
+    margin: 400px 900px;
+}
+.check{
+    margin-top: 5px;
+    font-size: 12pt;
+    margin-left: 747px;
+}
+.Remember{
+    color: #A7A7A7;
+}
+.Forgot a{
+     text-decoration: none;
+     color: #0552ee;
+}
+.Forgot{
+    padding-left: 165px;
+    color: #0552ee;
+}
+.niz{
+    width: 50%;
+    margin-left: 750px;
+}
+.opisanie_2{
+    color: #A7A7A7;
+    margin-top: 30px;
+    font-size: 14pt;
+    margin-left: 40px;
+}
+.niz_2{
+    width: 40%;
+    margin-left: 750px;
+}
+.SendOTP{
+    border-radius: 4px;
+    padding: 15px 165px;
+    margin-top: 250px;
+    color: #FFFFFF;
+    background-color: #0560FA;
+}
+.SendOTP a{
+    color: #FFFFFF;
+    text-decoration: none;
+    font-size: 16pt;
+}
+.SendOTP:hover{
+    background-color: #316ed8;
+}
+.opisanie_3{
+    color: #A7A7A7;
+    margin-top: 30px;
+    font-size: 14pt;
+    margin-left: 80px;
+}
